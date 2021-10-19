@@ -1,0 +1,2 @@
+# QrCode-reader
+Using camera
